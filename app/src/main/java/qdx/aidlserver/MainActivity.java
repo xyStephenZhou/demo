@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void hehe() {
+        Log.d(TAG, ".......111...........");
     }
 }
